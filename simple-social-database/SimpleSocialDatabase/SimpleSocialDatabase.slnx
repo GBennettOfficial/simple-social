@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="SimpleSocialDatabase/SimpleSocialDatabase.sqlproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
