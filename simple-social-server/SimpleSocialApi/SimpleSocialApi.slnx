@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="SimpleSocialApi.Tests/SimpleSocialApi.Tests.csproj" />
+  <Project Path="SimpleSocialApi/SimpleSocialApi.csproj" />
+</Solution>
